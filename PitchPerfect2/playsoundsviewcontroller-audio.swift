@@ -155,7 +155,7 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
     
     func setPlayButtonsEnabled(_ enabled: Bool) {
         snailButton.isEnabled = enabled
-        chipmunkButton.isEnabled = enabled
+        chiomunkButton.isEnabled = enabled
         rabbitButton.isEnabled = enabled
         vaderButton.isEnabled = enabled
         echoButton.isEnabled = enabled
